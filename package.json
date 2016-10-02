@@ -1,0 +1,25 @@
+{
+  "name": "call-cacher",
+  "main": "call-cacher",
+  "description": "Library to cache function calls till it's initializing.",
+  "version": "1.0.1",
+  "homepage": "https://github.com/t10ko/call-cacher",
+  "license": "GPL-3.0",
+  "author": {
+    "name": "Tigran Atayan",
+    "email": "tigran.a.atayan@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/t10ko/call-cacher.git"
+  },
+  "devDependencies": {
+    "gulp": "^3.8.9",
+    "gulp-gzip": "0.0.8",
+    "gulp-header": "^1.2.2",
+    "gulp-rename": "^1.2.0",
+    "gulp-uglify": "^1.0.1",
+    "moment": "^2.8.3"
+  },
+  "dependencies": {}
+}
