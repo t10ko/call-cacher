@@ -1,8 +1,8 @@
 {
   "name": "call-cacher",
-  "main": "call-cacher",
-  "description": "Library to cache function calls till it's initializing.",
-  "version": "1.0.2",
+  "main": "src/main.js",
+  "description": "Library to cache function calls till API's initializing.",
+  "version": "1.0.3",
   "homepage": "https://github.com/t10ko/call-cacher",
   "license": "GPL-3.0",
   "author": {

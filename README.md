@@ -1,4 +1,4 @@
-# JavaScript Call Cacher.
+# Library to cache function calls till API's initializing.
 
 There are situations that your API is not ready yet for some reason, but you want it to be available immediately.  
 In that case you most probably need return some dummy value when your methods are being called and cache arguments and this object for every call, to execute them immediately when your API becomes ready.  
