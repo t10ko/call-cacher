@@ -1,0 +1,30 @@
+{
+  "name": "call-cacher",
+  "description": "Library to cache function calls till API's initializing.",
+  "main": "src/main.js",
+  "authors": [
+    "Tigran Atayan"
+  ],
+  "license": "GPL-3.0",
+  "keywords": [
+    "JavaScript",
+    "API",
+    "lib",
+    "library",
+    "ready",
+    "loadend",
+    "wait",
+    "cache",
+    "exeuction", 
+    "calls"
+  ],
+  "dependencies": {},
+  "homepage": "https://github.com/t10ko/call-cacher",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

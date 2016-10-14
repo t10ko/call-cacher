@@ -58,7 +58,7 @@
 		PROTOTYPE.handler = null;
 
 		/**
-		 * Handler that must be used.
+		 * Hooked function which is used directly.
 		 * @type {Function}
 		 */
 		PROTOTYPE.execute = null;
